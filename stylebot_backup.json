@@ -29,11 +29,14 @@
     "modifiedTime": "2022-07-27T07:40:18.867+02:00",
     "readability": false
   },
-  "mail.proton.me": {
-    "css": "div.items-column-list-inner.flex.flex-nowrap.flex-column.relative.items-column-list-inner--mail {\n  background-color: #ffffffff;\n    background-image: url(\"https://images.hdqwalls.com/download/dark-abstract-black-minimal-4k-q0-1360x768.jpg\");\n\n    background-size: 100% 100%;\n    background-repeat:repeat,repeat;\n    background-position: center;\n}\n\ndiv.flex-item-fluid.flex.flex-nowrap.cursor-pointer.opacity-on-hover-container.item-container-row.flex-align-items-center.read {\n  background-color: #ffffffff;\n  background-image: url(\"https://e0.pxfuel.com/wallpapers/111/280/desktop-wallpaper-purple-matrix-background-for-powerpoint-code-background-matrix.jpg\");\n      background-repeat: repeat,repeat;\n      \n}\n\nspan.max-w100.text-ellipsis.mr1 {\n  color: #ffffffff;\n}\n\nspan span span {\n  color: #ffddff;\n}",
-    "readability": false,
-    "enabled": true,
-    "modifiedTime": "2023-03-21T11:23:07.784+01:00"
+  "mail.proton.me": {"css":"div.items-column-list-inner.flex.flex-nowrap.flex-column.relative.items-column-list-inner--mail {\n  background-color: #ffffffff;\n    background-image: url(\"https://images.hdqwalls.com/download/dark-abstract-black-minimal-4k-q0-1360x768.jpg\");\n\n    background-size: 100% 100%;\n    background-repeat:repeat,repeat;\n    background-position: center;\n}\n\ndiv.flex-item-fluid.flex.flex-nowrap.cursor-pointer.opacity-on-hover-container.item-container-row.flex-align-items-center.read {\n  background-color: #ffffffff;\n  background-image: url(\"https://e0.pxfuel.com/wallpapers/111/280/desktop-wallpaper-purple-matrix-background-for-powerpoint-code-background-matrix.jpg\");\n      background-repeat: repeat,repeat;\n      \n}\n\nspan.max-w100.text-ellipsis.mr1 {\n  color: #ffffffff;\n}\n\nspan span span {\n  color: #ffddff;\n}\n\nsvg.icon-16p {\n  color: #ff90c7;\n}\n\n\nheader.header.flex.flex-nowrap.reset4print {\n  background-image: url(\"https://images.hdqwalls.com/download/dark-abstract-black-minimal-4k-q0-1360x768.jpg\");\n}\n\ndiv.flex-item-fluid.flex.flex-nowrap.cursor-pointer.opacity-on-hover-container.item-container-row.read {\n     background-image: url(\"https://e0.pxfuel.com/wallpapers/111/280/desktop-wallpaper-purple-matrix-background-for-powerpoint-code-background-matrix.jpg\");\n}\n\nnav.toolbar.toolbar--heavy.flex.flex-nowrap.flex-item-noshrink.flex-align-items-center.gap-2.no-print.flex-item-fluid-auto.flex-justify-space-between.py-1.pl-4.pr-2 {\n  background-color: #00000000;\n}",
+  "readability":false,
+  "enabled":true,
+  "modifiedTime":"2023-10-25T10:37:44.697+02:00"},
+    
+  "stylebot.dev":{"css":"","enabled":true,
+  "modifiedTime":"2022-07-13T09:52:47.376+02:00",
+  "readability":false
   }
   
 }
